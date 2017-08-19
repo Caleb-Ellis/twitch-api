@@ -2,8 +2,6 @@
 
 A simple exercise in using the Twitch API. Obtains twitch streamer information and displays it in list format, dependant on whether or not they are online. Does not yet contain database functionality.
 
-![alt text](https://caleb-ellis.github.io/images/twitch.png)
-
 >**User Story:** I can see whether Free Code Camp is currently streaming on Twitch.tv.<br>
 >**User Story:** I can click the status output and be sent directly to the Free Code Camp's Twitch.tv channel.<br>
 >**User Story:** If a Twitch user is currently streaming, I can see additional details about what they are streaming.<br>
